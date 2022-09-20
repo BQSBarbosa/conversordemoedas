@@ -1,0 +1,66 @@
+h1 {
+  font-size: 70px;
+  font-family: "Impact", fantasy;
+  font-style: italic;
+}
+label {
+  font-size: 35px;
+  font-family: "Courier", monospace;
+}
+body {
+  min-height: 400px;
+  background-image: url("https://www.infomoney.com.br/wp-content/uploads/2022/03/GettyImages-1299263134.jpg?resize=916%2C515&quality=50&strip=all");
+  background-color: #000000;
+  background-size: 190vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 10px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+input {
+  margin: 20px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: white;
+  font-variant: small-caps;
+}
+
+button {
+  margin-top: 20px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+h2 {
+  background-color: #4b636e;
+  border-radius: 10px;
+  margin-top: 70px;
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 40px;
+  color: white;
+}
